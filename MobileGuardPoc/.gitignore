@@ -7,3 +7,6 @@
 # Ignore all JPEG files
 *.jpeg
 *.jpg
+
+# JADX project files
+*.jadx

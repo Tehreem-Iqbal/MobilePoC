@@ -1,0 +1,21 @@
+# Gradle
+.gradle/
+build/
+
+# IDE
+.idea/
+*.iml
+
+# Local config
+local.properties
+
+# Build outputs
+*.apk
+*.aab
+
+# Other
+*.hprof
+*.jks
+*.keystore
+captures/
+.cxx/
